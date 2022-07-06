@@ -4,4 +4,6 @@
     <fullyQualifiedTypeName name="com.study.springboot.bean.Config"/>
     <fullyQualifiedTypeName name="com.study.springboot.bean.Member"/>
     <fullyQualifiedTypeName name="com.study.springboot.bean.Printer"/>
+    <fullyQualifiedTypeName name="com.study.springboot.Config"/>
+    <fullyQualifiedTypeName name="javax.imageio.plugins.tiff.FaxTIFFTagSet"/>
 </qualifiedTypeNameHistroy>
