@@ -1,0 +1,21 @@
+package com.study.springboot;
+
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.study.springboot.bean.Config;
+import com.study.springboot.bean.Member;
+
+@SpringBootApplication
+public class Springdi01Application {
+
+	public static void main(String[] args) {
+//		SpringApplication.run(Springdi01Application.class, args);
+		ApplicationContext context = new AnnotationConfigApplicationContext(Config.class);
+		
+		Member member1 = (Member)context.getBean("member1") ;
+		member1.print();
+	}
+
+}

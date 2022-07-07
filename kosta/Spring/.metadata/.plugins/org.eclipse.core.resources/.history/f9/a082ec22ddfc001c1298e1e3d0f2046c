@@ -1,0 +1,30 @@
+package com.study.springboot.member;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/member") // 본 Controller의 공통 url
+public class MemController {
+	@Autowired // 의존성 자동 주입
+	private MemberService service;
+	
+	@GetMapping("/index") // /member/index 으로 설정
+	public void index() {
+	}
+	
+	@GetMapping("/join") // /member/join 으로 설정
+	public void joinForm() {
+	}
+	
+	@PostMapping("/join") // member/join에 POST로 요청이 왔을 경우
+	public String join(@ModelAttribute("m") Member m) {
+		String path = "member/join_result"; // 위에서 생성한 ModelAttribute "m" -> 속성에 m이라는 이름으로 Member 객체를 던져주는 것
+		
+		return path ;
+	}
+}

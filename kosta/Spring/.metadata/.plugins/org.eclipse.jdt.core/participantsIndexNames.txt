@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Donggyu\Spring_Study\kosta\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4139635655.index
+\spring_basic\src\main\java
+C:\Donggyu\Spring_Study\kosta\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\448139579.index
+\Ex8-2\src\main\java
+C:\Donggyu\Spring_Study\kosta\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1853181244.index
+\spring_basic\src\main\java
+C:\Donggyu\Spring_Study\kosta\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2574339544.index
+\Ex10-DB-3\src\main\java
+C:\Donggyu\Spring_Study\kosta\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2543232265.index
+\Ex10-DB-2\src\main\java

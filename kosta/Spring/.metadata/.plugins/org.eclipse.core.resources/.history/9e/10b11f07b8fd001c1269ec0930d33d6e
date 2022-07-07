@@ -1,0 +1,12 @@
+package com.study.springboot;
+
+
+import java.util.List;
+
+import org.apache.ibatis.annotations.Mapper;
+
+// interface에 Mapper 어노테이션 를 통해서 MyBatis XML에서의 <mapper> 안에 있는 것과 연결
+@Mapper
+public interface IMyUserDao {
+    List<MyUserDTO> list();
+}
