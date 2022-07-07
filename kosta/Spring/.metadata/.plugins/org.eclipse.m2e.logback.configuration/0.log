@@ -1570,6 +1570,7 @@
 2022-07-04 11:32:14,383 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-04 11:32:14,384 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-07-04 11:32:14,384 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Donggyu\Spring_Study\kosta\Spring\springdi0\src\test\resources
+<<<<<<< HEAD
 2022-07-04 11:41:51,560 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-04 11:41:51,560 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-07-04 11:41:51,561 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
@@ -3303,3 +3304,5 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.s
 2022-07-07 14:45:37,866 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-07 14:45:37,866 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-07-07 14:45:37,866 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KOSTA\Downloads\Ex10-DB-3\src\test\resources
+=======
+>>>>>>> 1c5c9397a8b183439cd7c0d9feb1de42c61bfefc
