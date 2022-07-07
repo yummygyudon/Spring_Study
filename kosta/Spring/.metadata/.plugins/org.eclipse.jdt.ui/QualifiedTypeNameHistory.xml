@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.study.springbean.Config"/>
+    <fullyQualifiedTypeName name="com.study.springboot.bean.Config"/>
+    <fullyQualifiedTypeName name="com.study.springboot.bean.Member"/>
+    <fullyQualifiedTypeName name="com.study.springboot.bean.Printer"/>
+</qualifiedTypeNameHistroy>
