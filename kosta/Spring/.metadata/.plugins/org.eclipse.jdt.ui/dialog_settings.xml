@@ -36,14 +36,20 @@
 		<item key="Comments" value="false"/>
 		<item key="VisibilityModifier" value="1"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> kosta
 		<item key="LimitElements" value="false"/>
 		<item key="IgnoreDefault" value="true"/>
 		<item key="StringStyle" value="0"/>
 		<item key="LimitValue" value="10"/>
 		<item key="SkipNull" value="false"/>
 		<item key="ToStringTemplateSelected" value="0"/>
+<<<<<<< HEAD
 =======
 >>>>>>> 54758372c84f8b5b539f7847ddb3f01ae9e32565
+=======
+>>>>>>> kosta
 	</section>
 	<section name="DialogBounds_OverrideMethodDialog">
 		<item key="DIALOG_X_ORIGIN" value="699"/>
@@ -71,6 +77,9 @@
 		<item key="pageIndex" value="3"/>
 	</section>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> kosta
 	<section name="SourceActionDialog.constructors">
 		<item key="VisibilityModifier" value="1"/>
 		<item key="FinalModifier" value="false"/>
@@ -88,7 +97,11 @@
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 	<section name="DialogBounds_GenerateToStringDialog">
+<<<<<<< HEAD
 		<item key="DIALOG_X_ORIGIN" value="452"/>
+=======
+		<item key="DIALOG_X_ORIGIN" value="710"/>
+>>>>>>> kosta
 		<item key="DIALOG_Y_ORIGIN" value="68"/>
 		<item key="DIALOG_WIDTH" value="516"/>
 		<item key="DIALOG_HEIGHT" value="691"/>
@@ -101,6 +114,9 @@
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
 	</section>
+<<<<<<< HEAD
 =======
 >>>>>>> 54758372c84f8b5b539f7847ddb3f01ae9e32565
+=======
+>>>>>>> kosta
 </section>

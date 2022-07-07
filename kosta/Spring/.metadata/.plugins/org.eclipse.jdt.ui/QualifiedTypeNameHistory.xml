@@ -5,9 +5,14 @@
     <fullyQualifiedTypeName name="com.study.springboot.bean.Member"/>
     <fullyQualifiedTypeName name="com.study.springboot.bean.Printer"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <fullyQualifiedTypeName name="com.study.springboot.Config"/>
     <fullyQualifiedTypeName name="javax.imageio.plugins.tiff.FaxTIFFTagSet"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
 =======
 >>>>>>> 54758372c84f8b5b539f7847ddb3f01ae9e32565
+=======
+    <fullyQualifiedTypeName name="com.study.springboot.Config"/>
+    <fullyQualifiedTypeName name="javax.imageio.plugins.tiff.FaxTIFFTagSet"/>
+>>>>>>> kosta
 </qualifiedTypeNameHistroy>
