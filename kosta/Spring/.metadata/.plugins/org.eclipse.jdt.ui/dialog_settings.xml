@@ -37,6 +37,9 @@
 		<item key="VisibilityModifier" value="1"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> kosta
 =======
 >>>>>>> kosta
 		<item key="LimitElements" value="false"/>
@@ -46,8 +49,11 @@
 		<item key="SkipNull" value="false"/>
 		<item key="ToStringTemplateSelected" value="0"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 54758372c84f8b5b539f7847ddb3f01ae9e32565
+=======
+>>>>>>> kosta
 =======
 >>>>>>> kosta
 	</section>
@@ -78,6 +84,9 @@
 	</section>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> kosta
 =======
 >>>>>>> kosta
 	<section name="SourceActionDialog.constructors">
@@ -98,7 +107,11 @@
 	</section>
 	<section name="DialogBounds_GenerateToStringDialog">
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<item key="DIALOG_X_ORIGIN" value="452"/>
+=======
+		<item key="DIALOG_X_ORIGIN" value="710"/>
+>>>>>>> kosta
 =======
 		<item key="DIALOG_X_ORIGIN" value="710"/>
 >>>>>>> kosta
@@ -115,8 +128,11 @@
 		<item key="patterns" value="*"/>
 	</section>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 54758372c84f8b5b539f7847ddb3f01ae9e32565
+=======
+>>>>>>> kosta
 =======
 >>>>>>> kosta
 </section>

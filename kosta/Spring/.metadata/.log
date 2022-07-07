@@ -5819,8 +5819,12 @@ java.util.concurrent.TimeoutException
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-04 15:17:37.333
 !MESSAGE executing callback sts4.classpath.ZCbzNwiQ SUCCESS [done]
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 54758372c84f8b5b539f7847ddb3f01ae9e32565
 !SESSION 2022-07-07 15:00:56.206 -----------------------------------------------
+=======
+!SESSION 2022-07-05 09:06:22.420 -----------------------------------------------
+>>>>>>> kosta
 =======
 !SESSION 2022-07-05 09:06:22.420 -----------------------------------------------
 >>>>>>> kosta
@@ -5831,6 +5835,7 @@ BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
 Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.eclipse.e4.ui.workbench 4 0 2022-07-07 15:01:32.523
 !MESSAGE Unable to load resource file:/C:/Donggyu/Spring_Study/kosta/Spring/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
@@ -5914,13 +5919,22 @@ java.lang.Exception
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-07-05 09:06:29.030
 >>>>>>> kosta
+=======
+!ENTRY org.eclipse.jface 2 0 2022-07-05 09:06:29.030
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-07-05 09:06:29.030
+>>>>>>> kosta
 !MESSAGE A conflict occurred for CTRL+SHIFT+T:
 Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
 		Open a type in a Java editor,
 		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@655295bd,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@18487f92,
+>>>>>>> kosta
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@18487f92,
 >>>>>>> kosta
@@ -5932,17 +5946,23 @@ Binding(CTRL+SHIFT+T,
 		,
 		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62cbe18c,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-07-07 15:01:35.062
 =======
+=======
+>>>>>>> kosta
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@252f00ba,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-07-05 09:06:29.030
+<<<<<<< HEAD
+>>>>>>> kosta
+=======
 >>>>>>> kosta
 !MESSAGE A conflict occurred for ALT+SHIFT+R:
 Binding(ALT+SHIFT+R,
@@ -5950,7 +5970,11 @@ Binding(ALT+SHIFT+R,
 		Rename the selected element,
 		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@377b7798,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4667c6d9,
+>>>>>>> kosta
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4667c6d9,
 >>>>>>> kosta
@@ -5962,7 +5986,11 @@ Binding(ALT+SHIFT+R,
 		Rename the selected item,
 		Category(org.eclipse.ui.category.file,File,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@50177966,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5efa05f9,
+>>>>>>> kosta
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5efa05f9,
 >>>>>>> kosta
@@ -5970,6 +5998,7 @@ Binding(ALT+SHIFT+R,
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.eclipse.ui.navigator 2 0 2022-07-07 15:01:37.396
 !MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
@@ -5979,6 +6008,8 @@ Binding(ALT+SHIFT+R,
 
 !ENTRY org.eclipse.egit.ui 2 0 2022-07-07 15:01:37.469
 =======
+=======
+>>>>>>> kosta
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-05 09:06:32.228
 !MESSAGE Entering DelegatingStreamConnectionProvider()
 
@@ -5992,6 +6023,9 @@ Binding(ALT+SHIFT+R,
 !MESSAGE Instantiating ReusableClasspathListenerHandler
 
 !ENTRY org.eclipse.egit.ui 2 0 2022-07-05 09:06:33.478
+<<<<<<< HEAD
+>>>>>>> kosta
+=======
 >>>>>>> kosta
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\KOSTA'. If this is
@@ -5999,6 +6033,7 @@ not correct please set the HOME environment variable and restart Eclipse. Otherw
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.eclipse.tm4e.registry 2 0 2022-07-07 15:02:57.489
 !MESSAGE No content-type found with id='lng.properties', ignoring TM4E association.
@@ -6008,6 +6043,8 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.wildwebdeveloper.xml 4 0 2022-07-07 15:02:58.087
 =======
+=======
+>>>>>>> kosta
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-05 09:06:37.628
 !MESSAGE Boot LS startup time from start to initialized: 5387ms
 
@@ -6363,6 +6400,9 @@ java.lang.Error: SWT Resource was not properly disposed
 !MESSAGE No content-type found with id='lng.markdown-math', ignoring TM4E association.
 
 !ENTRY org.eclipse.wildwebdeveloper.xml 4 0 2022-07-06 09:16:34.398
+<<<<<<< HEAD
+>>>>>>> kosta
+=======
 >>>>>>> kosta
 !MESSAGE /org/eclipse/persistence/jaxb/eclipselink_oxm_2_5.xsd
 !STACK 0
@@ -6404,6 +6444,7 @@ java.io.FileNotFoundException: /org/eclipse/persistence/jaxb/eclipselink_oxm_2_5
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:14:17.720
 !MESSAGE Entering DelegatingStreamConnectionProvider()
@@ -6546,6 +6587,8 @@ java.io.FileNotFoundException: /org/eclipse/persistence/jaxb/eclipselink_oxm_2_5
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:27:58.644
 !MESSAGE executing callback sts4.classpath.FqMyGuDd SUCCESS [done]
 =======
+=======
+>>>>>>> kosta
 !ENTRY org.eclipse.ui 2 2 2022-07-06 09:18:42.861
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
 
@@ -8682,4 +8725,7 @@ java.io.FileNotFoundException: /org/eclipse/persistence/jaxb/eclipselink_oxm_2_5
 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+<<<<<<< HEAD
+>>>>>>> kosta
+=======
 >>>>>>> kosta

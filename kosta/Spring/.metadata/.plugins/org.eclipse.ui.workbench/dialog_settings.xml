@@ -3,10 +3,14 @@
 	<section name="NewWizardAction">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.jsp.ui.internal.wizard.NewJSPWizard"/>
 =======
 		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
 >>>>>>> 54758372c84f8b5b539f7847ddb3f01ae9e32565
+=======
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.jsp.ui.internal.wizard.NewJSPWizard"/>
+>>>>>>> kosta
 =======
 		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.jsp.ui.internal.wizard.NewJSPWizard"/>
 >>>>>>> kosta
@@ -16,6 +20,7 @@
 			<item value="org.springsource.ide.eclipse.boot.wizards.category"/>
 			<item value="org.eclipse.wst.web.ui"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		</list>
 	</section>
 	<section name="ImportExportAction">
@@ -23,6 +28,8 @@
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
 			<item value="org.eclipse.ui.Basic"/>
 			<item value="org.eclipse.wst.web.ui"/>
+=======
+>>>>>>> kosta
 =======
 >>>>>>> kosta
 		</list>

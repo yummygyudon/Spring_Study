@@ -1,5 +1,6 @@
 INDEX VERSION 1.131+C:\Donggyu\Spring_Study\kosta\Spring\.metadata\.plugins\org.eclipse.jdt.core
 <<<<<<< HEAD
+<<<<<<< HEAD
 3882529161.index
 2146087805.index
 52055783.index
@@ -38,6 +39,8 @@ INDEX VERSION 1.131+C:\Donggyu\Spring_Study\kosta\Spring\.metadata\.plugins\org.
 2024194817.index
 322786091.index
 =======
+=======
+>>>>>>> kosta
 1865797976.index
 4235760459.index
 3687277801.index
@@ -53,4 +56,7 @@ INDEX VERSION 1.131+C:\Donggyu\Spring_Study\kosta\Spring\.metadata\.plugins\org.
 3037866802.index
 4047161669.index
 4171236356.index
+<<<<<<< HEAD
+>>>>>>> kosta
+=======
 >>>>>>> kosta
