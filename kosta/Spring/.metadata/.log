@@ -6110,3 +6110,33 @@ java.io.FileNotFoundException: /org/eclipse/persistence/jaxb/eclipselink_oxm_2_5
 
 !ENTRY org.eclipse.ui 2 2 2022-07-07 15:24:07.934
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:27:57.457
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:27:57.462
+!MESSAGE classpath=53 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:27:57.467
+!MESSAGE buffering callback sts4.classpath.FqMyGuDd springdi0-1 false 53
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:27:57.468
+!MESSAGE executing callback sts4.classpath.FqMyGuDd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:27:57.519
+!MESSAGE executing callback sts4.classpath.FqMyGuDd SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:27:58.612
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:27:58.617
+!MESSAGE classpath=53 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:27:58.621
+!MESSAGE buffering callback sts4.classpath.FqMyGuDd springdi3 false 53
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:27:58.622
+!MESSAGE executing callback sts4.classpath.FqMyGuDd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-07 15:27:58.644
+!MESSAGE executing callback sts4.classpath.FqMyGuDd SUCCESS [done]
